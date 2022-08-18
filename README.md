@@ -30,7 +30,7 @@ This project uses Jacoco Maven plugin 0.8.8 to generate code coverage
 
 The above sets of commands will start the application locally on port 8080
 
-The following endpoints you can access
+## API Endpoints
 
 - Access all the phone numbers
 
